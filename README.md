@@ -27,3 +27,4 @@ I suck at spelling and this project was supposed to help me be better but it act
 * Adding more words
 * Word playback on results page
 * Ability to store list of words for future practice
+* International Phonetic Alphabet version for English transcription practice
